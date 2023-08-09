@@ -48,6 +48,7 @@
 <img width="1222" alt="image" src="https://github.com/gyojinnK/KoreanTraining_Baleum/assets/97776614/a4465299-7899-4aa7-9b42-c33aceda6a1e">
 
 <br>
+<hr>
 
 ![자산 3](https://github.com/gyojinnK/KoreanTraining_Baleum/assets/97776614/448cc151-d310-4dd1-b315-48aba12d3d87)
 
