@@ -12,7 +12,7 @@
 <br>
 
 # WBS (작업분할구조도)
-![WBS](https://github.com/gyojinnK/KoreanTraining_Baleum/assets/97776614/781e9d8d-21ab-43a7-8c65-eaae81016e0a)
+![wbs완](https://github.com/gyojinnK/KoreanTraining_Baleum/assets/97776614/a362f587-938a-40c4-94a8-21da7ecc820c)
 
 <br>
 
