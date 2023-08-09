@@ -23,20 +23,20 @@
 <br>
 
 # 시퀀스 다이어그램
-서비스의 이벤트를 순서대로 표기하여 전체적인 흐름을 보여주는 다이어그램<br>
+서비스의 이벤트를 순서대로 표기하여 전체적인 흐름을 보여주는 다이어그램<br><br>
 ![순차다이어그램](https://github.com/gyojinnK/KoreanTraining_Baleum/assets/97776614/2a462e56-e5eb-40fb-a523-631205aef3b1)
 
 <br>
 
 # Etri AI AIP
-주요 기능인 발음 평가에 사용된 API<br>
+주요 기능인 발음 평가에 사용된 API<br><br>
 ![image](https://github.com/gyojinnK/KoreanTraining_Baleum/assets/97776614/f28e7e39-52ae-469b-8c62-59b299ece146)
 ![image](https://github.com/gyojinnK/KoreanTraining_Baleum/assets/97776614/e507ee84-d8e1-4bc9-870a-0aefe1958786)
 
 <br>
 
 # 부가 로직 설명
-사용자의 발음을 녹음하고 녹음된 음성파일의 데이터 처리과정<br>
+사용자의 발음을 녹음하고 녹음된 음성파일의 데이터 처리과정<br><br>
 <img width="1332" alt="스크린샷 2023-06-13 오후 11 31 33" src="https://github.com/gyojinnK/KoreanTraining_Baleum/assets/97776614/691f5fcd-bf70-4bbf-a137-5f5f0d8f623a">
 
 <br>
