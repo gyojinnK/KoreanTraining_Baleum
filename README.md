@@ -1,13 +1,31 @@
 ![자산 3](https://github.com/gyojinnK/KoreanTraining_Baleum/assets/97776614/448cc151-d310-4dd1-b315-48aba12d3d87)
 
+<h1>개발환경</h1>
+<div>
+<b>VScode</b>&nbsp &nbsp &nbsp<b>IntelliJ</b>&nbsp &nbsp &nbsp<b>DBeaver</b>&nbsp &nbsp &nbsp<b>GitHub</b>
+</div>
 <br>
-<hr>
+
+<h1>사용기술</h1>
+<div>
+<h3>FrontEnd</h3>
+React.js &nbsp Typescript
+<h3>BackEnd</h3>
+Java11 &nbsp Spring Boot
+<h3>Database</h3>
+MySQL &nbsp AWS RDS
+<h3>Server</h3>
+AWS EC2 &nbsp AWS S3 &nbsp AWS CodeDeploy
+<h3>Devops</h3>
+Github Action
+</div>
 <br>
 
 <h1>개요</h1>
 <p>오늘날 세계화된 시대에 다양한 언어와 문화 간의 효과적인 의사소통은 점점 중요해지고 있다. 새로운 언어를 배우는 데 있어서 발음 습득은 의도한 메시지를 전달하는데 중요한 역할을 하는 것으로, 특히 외국인들이 한국어를 배우거나 발음에 어려움을 겪는 한국인들에게 중요하다.
   <br>사용자의 발음을 녹음하고 점수를 반환하는 웹 기반 플랫폼을 소개한다.
 </p>
+<br>
 
 <br>
 
